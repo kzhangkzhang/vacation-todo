@@ -1,0 +1,19 @@
+{
+  "name": "todo4cruise",
+  "version": "1.0.0",
+  "description": "To Do list for cruise vacation",
+  "main": "main.js",
+  "scripts": {
+    "deploy": "gh-pages -d ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kzhangkzhang/vacation-todo.git"
+  },
+  "author": "Kevin Zhang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kzhangkzhang/vacation-todo/issues"
+  },
+  "homepage": "https://github.com/kzhangkzhang/vacation-todo/index.html"
+}
