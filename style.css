@@ -10,6 +10,11 @@ ul li:before {
 ul li.special {
   color: red;
 }
+
+img#print-tag {
+  width: 100%;
+  margin: 10px auto;
+}
 /* End of Kevin's own */
 
 a {
